@@ -5,7 +5,7 @@
 <body>
 	<h1>Welcome SIMHAM </h1>
 	<p>
-		This is Build 18
+		This is Nexus Example
 		
 		<%= new java.util.Date() %></p>
 	<p>
