@@ -5,6 +5,7 @@
 <body>
 	<h1>Welcome SIMHAM </h1>
 	<p>
+		This is Build 15
 		
 		<%= new java.util.Date() %></p>
 	<p>
