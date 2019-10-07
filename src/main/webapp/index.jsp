@@ -5,7 +5,7 @@
 <body>
 	<h1>Welcome SIMHAM </h1>
 	<p>
-		It is now
+		Today is 
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
