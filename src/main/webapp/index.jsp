@@ -5,7 +5,7 @@
 <body>
 	<h1>Welcome  REDDY</h1>
 	<p>
-		This is Nexus Example
+		This is demo project from wsp2 local branch
 		
 		<%= new java.util.Date() %></p>
 	<p>
