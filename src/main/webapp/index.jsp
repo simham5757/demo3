@@ -5,7 +5,7 @@
 <body>
 	<h1>Welcome  REDDY</h1>
 	<p>
-		This is demo project from wsp2 local branch
+		This is demo project to test pipeline job to deploy to tomocat
 		
 		<%= new java.util.Date() %></p>
 	<p>
