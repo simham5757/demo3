@@ -5,7 +5,7 @@
 <body>
 	<h1>Welcome  REDDY</h1>
 	<p>
-		This is demo project to test pipeline job to deploy to tomocat
+		This is demo project 
 		
 		<%= new java.util.Date() %></p>
 	<p>
