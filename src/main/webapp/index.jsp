@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Welcome to My World</title>
+<title>Welcome to Pipeline</title>
 </head>
 <body>
 	<h1>Welcome  REDDY</h1>
