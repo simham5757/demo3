@@ -5,7 +5,7 @@
 <body>
 	<h1>Welcome  REDDY</h1>
 	<p>
-		This is demo project , using webhook
+		This is demo project , uploading to nexus
 		
 		<%= new java.util.Date() %></p>
 	<p>
